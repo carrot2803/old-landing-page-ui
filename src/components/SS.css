@@ -1,0 +1,11 @@
+/* app screenshots carousel */
+.screenshot-item {
+	margin: 15px;
+	/* background-color: red; */
+}
+.screenshot-item img {
+	width: 100%;
+	max-width: 250px;
+	display: block;
+	margin: auto;
+}
